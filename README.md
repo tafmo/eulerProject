@@ -1,2 +1,2 @@
 # eulerProject
-Collection of Euler Project solutions
+Collection of Project Euler solutions
