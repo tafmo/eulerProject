@@ -23,7 +23,7 @@ function fiboSum() {
 	}
 
 	var answer = document.createElement("p");
-	answer.innerHTML = "The sum of the even Fibonacci numbers less or equal to " + bound +" is: " + sum;
+	answer.innerHTML = "The sum of the even Fibonacci numbers less than or equal to " + bound +" is: " + sum;
 	document.getElementById("container").appendChild(answer);
 	//alert("The sum of the even Fibonacci numbers less or equal to " + bound +" is: " + sum);
 }
